@@ -1,0 +1,10 @@
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\bin\Debug\Lidar_1.exe.config
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\bin\Debug\Lidar_1.exe
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\bin\Debug\Lidar_1.pdb
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\obj\Debug\Lidar_1.csprojAssemblyReference.cache
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\obj\Debug\Lidar_1.Form1.resources
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\obj\Debug\Lidar_1.Properties.Resources.resources
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\obj\Debug\Lidar_1.csproj.GenerateResource.cache
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\obj\Debug\Lidar_1.csproj.CoreCompileInputs.cache
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\obj\Debug\Lidar_1.exe
+C:\Users\LibertyCat\source\repos\Lidar_1\Lidar_1\obj\Debug\Lidar_1.pdb
